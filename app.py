@@ -18,6 +18,7 @@ def carregar_vagas():
 
 st.title("Buscador de Vagas e Estágios")
 st.caption("Vagas no Brasil, atualizadas todos os dias. Fonte dos dados: Adzuna.")
+st.caption("Projeto desenvolvido por **Natacia Duarte** · [GitHub](https://github.com/nataciaduarte) · [LinkedIn](https://www.linkedin.com/in/natácia-duarte-7a4860381)")
 
 df = carregar_vagas()
 
