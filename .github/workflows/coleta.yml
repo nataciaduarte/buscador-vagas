@@ -1,0 +1,38 @@
+name: Coleta diaria de vagas
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # 10h UTC = 7h no horário de Brasília
+  workflow_dispatch:         # permite rodar na mão pelo site
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Instalar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar as bibliotecas
+        run: pip install -r requirements.txt
+
+      - name: Rodar o coletor
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python coletor.py
+
+      - name: Salvar o banco atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vagas.db
+          git diff --staged --quiet || git commit -m "Atualiza vagas"
+          git push
