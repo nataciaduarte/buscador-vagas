@@ -1,3 +1,4 @@
+import json
 import os
 import re
 import sqlite3
@@ -101,6 +102,24 @@ def salvar_vagas(conn, vagas, termo):
     return novas
 
 
+def exportar_json(conn):
+    """Grava as vagas do banco em vagas.json, para outras ferramentas
+    (como o n8n) lerem os dados sem precisar abrir o SQLite."""
+    conn.row_factory = sqlite3.Row
+    linhas = conn.execute(
+        """
+        SELECT id, titulo, empresa, local, link, data_publicacao, coletada_em,
+               substr(descricao, 1, 500) AS descricao
+        FROM vagas
+        ORDER BY data_publicacao DESC
+        """
+    ).fetchall()
+    conn.row_factory = None
+    with open("vagas.json", "w", encoding="utf-8") as f:
+        json.dump([dict(l) for l in linhas], f, ensure_ascii=False, indent=1)
+    return len(linhas)
+
+
 def main():
     if not APP_ID or not APP_KEY:
         raise SystemExit("Chaves da Adzuna não encontradas. Confira o arquivo .env")
@@ -128,6 +147,7 @@ def main():
     conn.commit()
 
     total = conn.execute("SELECT COUNT(*) FROM vagas").fetchone()[0]
+    exportar_json(conn)
     conn.close()
     print(f"Pronto: {total_novas} vagas novas. Total no banco: {total}.")
 
