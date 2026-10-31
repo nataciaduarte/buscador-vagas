@@ -1,5 +1,505 @@
 [
  {
+  "id": "5948150003",
+  "titulo": "Estagiário de Direito",
+  "empresa": "Cavalcante Ramos Advogados",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5948150003?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T12:39:38Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Sobre o Cavalcante Ramos Advogados: Somos um escritório com mais de 20 anos de mercado, reconhecido pela revista Análise Advocacia 500 por mais de dez anos seguidos como um dos escritórios mais admirados do Brasil. Conheça um pouco mais de nossa história no nosso site: cavalcanteramos.adv.br. O que buscamos em você? Procuramos um(a) estagiário(a) com forte espírito de aprendizagem e atitude protagonista, que goste de desafios, seja comprometido(a) com resultados e tenha vontade de construir sua…"
+ },
+ {
+  "id": "5948146539",
+  "titulo": "Estagiário(a) Jurídico - Tributário & Aduaneiro",
+  "empresa": "Vieira Rezende Advogados",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5948146539?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T12:37:00Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Description Buscamos um (a) estagiário (a) para atuar na equipe de Direito Tributário & Aduaneiro no Escritório do Rio de Janeiro. Responsibilities Elaboração de peças; Pesquisas de jurisprudência; Diligências a órgãos administrativos e judiciais; Acompanhamento de processos. Prerequisites Graduandos de Direito entre o 5° e o 7° período. Experiência prévia de estágio na área será um diferencial. Experiences Local de atuação: Rio de Janeiro; Regime de trabalho: Híbrido."
+ },
+ {
+  "id": "5948036912",
+  "titulo": "MARKETING / FILMMAKER",
+  "empresa": "BAIXOMADUREIRAPARKINGLTDA",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5948036912?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T09:36:36Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Área e especialização profissional: Marketing - Marketing Senioridade: Estagiário Número de vagas: 5 Local de trabalho: Rio de Janeiro, RJ Regime de contratação de tipo Efetivo – CLT Jornada Período Integral Filmmaker com experiência em gravação e edição de vídeos Criatividade para criação de conteúdos para redes sociais Conhecimento de Instagram, Reels e Stories Capacidade de produzir vídeos dos nossos lojistas, produtos, promoções e do shopping Organização, proatividade e boa comunicação"
+ },
+ {
+  "id": "5947945303",
+  "titulo": "ESTÁGIO EM TURISMO - AGÊNCIA DE TURISMO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945303?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:59Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Auxiliar no cadastro de clientes em sistema, receber dados de pagamento e encaminhar ao setor financeiro, auxiliar nas reservas de hotéis e veículos, auxiliar na elaboração de roteiros para os clientes, atendimento ao cliente tirando dúvidas na compra de pacotes de viagens verificar documentações necessárias para finalizar o pacote de viagem."
+ },
+ {
+  "id": "5947945277",
+  "titulo": "ESTÁGIO DE ENSINO MÉDIO - AUXILIAR DE MERCADO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945277?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:58Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Auxiliar com a organização da loja -Auxiliar no atendimento ao público - Auxiliar no estoque e reposição de produtos"
+ },
+ {
+  "id": "5947945269",
+  "titulo": "ESTÁGIO EM FARMÁCIA - DROGARIA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945269?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:58Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Organização e controle de validade - Orientação aos clientes - Conferencia de receitas controladas"
+ },
+ {
+  "id": "5947945274",
+  "titulo": "ESTÁGIO EM ENSINO MÉDIO - RESTAURANTE DE FRUTOS DO MAR",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945274?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:58Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Apoiar as atividades do restaurante, realizando a recepção e direcionamento de clientes às mesas, bem como o transporte e a entrega de pratos, assegurando agilidade, organização e qualidade no atendimento."
+ },
+ {
+  "id": "5947945240",
+  "titulo": "ESTÁGIO EM ATENDIMENTO - RESTAURANTE - 240",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945240?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:57Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "-Apoio nas atividades de atendimento ao público; -Auxílio nas rotinas de caixa."
+ },
+ {
+  "id": "5947945173",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO - CONSULTORIA DE RECURSOS HUMANOS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945173?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:56Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Elaborar e publicar anúncios de vagas em diferentes plataformas; Realizar triagem de currículos; Acompanhar os processos seletivos e dar feedback aos candidatos; Auxiliar na melhoria contínua das estratégias de recrutamento e seleção."
+ },
+ {
+  "id": "5947945143",
+  "titulo": "ESTÁGIO EM ENSINO MÉDIO – APOIO OPERACIONAL EM COZINHA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945143?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:56Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "* Auxiliar no controle de porções, medidas e frações; * Verificar temperaturas de recebimento, armazenamento, preparo e distribuição; * Apoiar no controle de validade, amostras de alimentos e fichas técnicas; * Apoiar inventários e controles de estoque básico; * Garantir a correta identificação e armazenamento dos alimentos; * Apoiar a nutricionista nas rotinas diárias da cozinha; * Preenchimento e atualização de planilhas de controle (produção, estoque, etc.) * Manter postura colaborativa, éti…"
+ },
+ {
+  "id": "5947945121",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO - RAMO DE ENERGIA E SUSTENTABILIDADE",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945121?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:55Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Controle financeiro - Controle de projetos de energia - Controle Administrativo"
+ },
+ {
+  "id": "5947945004",
+  "titulo": "ESTÁGIO ADMINISTRATIVO FINANCEIRO - ASSESSORIA JURÍDICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945004?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:54Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Atendimento ao cliente por meio de ligações, mensagens e e-mail; • Organização de documentos físicos e digitais; • Emissão de Notas Fiscais; • Atualização de ERP financeiro; • Cobrança ativa de clientes em atraso e inadimplentes; • Atendimento ao cliente"
+ },
+ {
+  "id": "5947945042",
+  "titulo": "ESTÁGIO DE ATENDIMENTO AO CLIENTE - NÍVEL MÉDIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947945042?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:54Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Recepcionar clientes; - Apoio no atendimento ao cliente no balcão e salão; - Apoio na conferência de pedidos; - Orientação básica aos clientes sobre produtos; - Abastecimento de vitrines e organização de produtos na loja; - Apoio a equipe de atendimento nas demandas do dia a dia; - Retirar mesa."
+ },
+ {
+  "id": "5947944939",
+  "titulo": "ESTÁGIO EM RECURSOS HUMANOS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944939?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:53Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Prestar suporte nas atividades pertinentes ao setor de RH e DP • Preparar os vale refeições • Preparar as folhas de ponto • Recolher diariamente as pastas com as folhas de ponto • Imprimir a planilha de almoço • Preparar o bilhete único • Auxiliar nas atividades de recrutamento e seleção • Verificar junto ao Detran a existência de multa dos caminhões"
+ },
+ {
+  "id": "5947944894",
+  "titulo": "ESTÁGIO NO SETOR FISCAL",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944894?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:52Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Apoiar na análise e aplicação da legislação tributária federal, estadual e municipal • Auxiliar no cálculo e apuração de tributos como PIS e COFINS • Contribuir com rotinas relacionadas ao regime do Simples Nacional • Dar suporte na apuração de ICMS, IPI e ISS • Auxiliar nos cálculos de IRPJ e CSLL • Acompanhar atualizações na legislação tributária e apoiar na adequação dos processos internos"
+ },
+ {
+  "id": "5947944869",
+  "titulo": "ESTÁGIO NO SETOR ADMINISTRATIVO - PARA JOVENS DE ENSINO MÉDIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944869?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Ajudar com solicitações de documentos - Ajudar com organização de documentos - Apoio ao departamento pessoal"
+ },
+ {
+  "id": "5947944874",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944874?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Controle financeiro • Controle de projetos de energia • Controle Administrativo"
+ },
+ {
+  "id": "5947944881",
+  "titulo": "ESTÁGIO EM LETRAS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944881?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Auxiliar o professor na produção de materiais • Apoio na sala de aula"
+ },
+ {
+  "id": "5947944868",
+  "titulo": "ESTÁGIO COM INFLUENCER DIGITAL - MÍDIAS SOCIAIS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944868?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Acompanhar diárias de gravação: Dar suporte nas gravações direcionando a influenciadora e garantindo os takes alinhados em roteiro. - Pesquisar referências e estar atendo ao universo das redes sociais para propor pautas criativas para a influenciadora, alinhando seu conteúdo editorial com tendências e memes do momento - Propor roteiros de conteúdo orgânicos - Editar vídeos - Usando ferramentas simples como CapCut, e ferramenta de edição de vídeo do Instagram e Tiktok"
+ },
+ {
+  "id": "5947944873",
+  "titulo": "ESTÁGIO EM RECURSOS HUMANOS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944873?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Auxiliar nas atividades administrativas da empresa • Auxiliar na administração de pessoal, incluindo organização de documentos, controle de frequência e apoio na comunicação interna • Apoiar em ações de treinamento e desenvolvimento, contribuindo para a organização e logística dos treinamentos internos"
+ },
+ {
+  "id": "5947944876",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944876?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:51Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Principais atividades: • Responsável pelo contato telefônico com clientes, seja para vendas, suporte ou pesquisa • Atuar como ponte entre a empresa e o cliente, oferecendo produtos ou serviços, esclarecendo dúvidas, solucionando problemas e coletando informações"
+ },
+ {
+  "id": "5947944837",
+  "titulo": "ESTÁGIO EM LETRAS INGLÊS - 59794",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944837?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:50Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Auxiliar os alunos durante a realização das atividades de português e inglês, orientando a execução dos exercícios e esclarecendo dúvidas. Correção e organização: Corrigir exercícios, acompanhar o desenvolvimento dos alunos e organizar os materiais e atividades do aluno. Apoio pedagógico e atendimento: Auxiliar na rotina da unidade, recepcionar alunos, acompanhar a evolução de cada estudante apoiar a equipe nas atividades pedagógicas. Interesse em trabalhar com educação e desenvolvimento de cri…"
+ },
+ {
+  "id": "5947944512",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO – RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947944512?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:45Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Digitalização; Auxiliar nas rotinas administrativa; Atendimento telefônico, conferência de documentos e arquivamento/organização; Auxiliar na elaboração de documentos, relatórios, planilhas e formulários administrativos."
+ },
+ {
+  "id": "5947943547",
+  "titulo": "ESTÁGIO EM NEGOCIAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947943547?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:26Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Realizar o contato direto com clientes para negociação de dívidas e fechamento de acordos. Atuar constantemente via telefone, e-mail e WhatsApp. Utilizar estratégica de argumentos para recuperação de crédito de forma empática e resolutiva. Executar rotinas administrativas, envolvendo atualização de sistemas internos, preenchimento de planilhas e controle de documentações dos acordos realizados."
+ },
+ {
+  "id": "5947943437",
+  "titulo": "ESTÁGIO EM NUTRIÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947943437?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:25Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "- Controlar e monitorar a entrada e saída de alunos, colaboradores, visitantes e prestadores; - Recepcionar, identificar e orientar o público; - Zelar pela segurança, organização e acesso às dependências da instituição; - Receber e direcionar correspondências, entregas e prestadores de serviços; - Apoiar na organização das áreas de entrada e externas; - Comunicar ocorrências e auxiliar no cumprimento das normas internas."
+ },
+ {
+  "id": "5947943446",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947943446?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:53:25Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Recepcionar alunos e clientes • Atendimento via WhatsApp e e-mail para sanar dúvidas acadêmicas • Atendimento presencial para prestar suporte acadêmico"
+ },
+ {
+  "id": "5947937761",
+  "titulo": "ESTÁGIO EM MARKETING - ASSESSORIA JURÍDICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947937761?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:41Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Apoiar gestão de redes sociais (planejamento, criação e agendamento de posts); • Auxiliar em campanhas de tráfego pago e na análise de resultados; • Dar suporte em ações de CRM/e-mail marketing e organização de bases; • Apoiar atualizações em site/e-commerce e parametrização de links; • Consolidar dados de performance em relatórios e dashboards simples."
+ },
+ {
+  "id": "5947937776",
+  "titulo": "ESTÁGIO NA ÁREA CONTÁBIL - EMPRESA DE ASSESSORIA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947937776?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:41Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Auxiliar nas atividades do Contábil, Fiscal e Atendimentos • Auxiliar na organização de documentações • Auxiliar a área contábil • Auxiliar no acompanhamento e controle de serviços"
+ },
+ {
+  "id": "5947935964",
+  "titulo": "ESTÁGIO EM PEDAGOGIA - 55942",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935964?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:08Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Correção de materiais; Atendimento aos alunos; Preparar material pedagógico"
+ },
+ {
+  "id": "5947935966",
+  "titulo": "ESTÁGIO EM PEDAGOGIA - 40967",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935966?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:08Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Auxiliar a equipe na atribuição de notas com capricho, nos registros diários, nas checagens orais, estudar a filosofia e o material didático do Kumon, atividades didáticas direciondas pelo profissional responsável"
+ },
+ {
+  "id": "5947935976",
+  "titulo": "ESTÁGIO EM LETRAS - 53441",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935976?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:08Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "APOIAR NA CORREÇÃO DE MATERIAL DIDÁTICO; AUXILIAR NO SUPORTE AOS ALUNOS; APOIAR NA ORGANIZAÇÃO DO AMBIENTE DE TRABALHO; AUXILIAR NO ESCLARECIMENTO DE DÚVIDAS DOS ALUNOS SEGUINDO O MÉTODO KUMON."
+ },
+ {
+  "id": "5947935947",
+  "titulo": "ESTÁGIO EM LETRAS/INGLÊS - 55328",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935947?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:07Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATENDIMENTO AO ALUNO, AUXÍLIO NA ROTINA DE ESTUDO, MOTIVAR O ALUNO, ORGANIZAÇÃO DO ESPAÇO PEDAGÓGICO"
+ },
+ {
+  "id": "5947935956",
+  "titulo": "ESTÁGIO EM MATEMÁTICA - 54279",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935956?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:50:07Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Auxiliar no acompanhamento pedagógico dos alunos de Matemática. Orientar os alunos durante a realização das atividades, estimulando a autonomia e o raciocínio lógico. Realizar correções e conferências de exercícios conforme os procedimentos da unidade. Apoiar a observação do desempenho dos alunos, identificando dificuldades e progressos. Auxiliar na organização de materiais didáticos e rotinas da unidade. Contribuir para a manutenção de um ambiente de estudo produtivo e organizado. Participar d…"
+ },
+ {
+  "id": "5947935366",
+  "titulo": "ESTÁGIO EM GASTRONOMIA (41493)",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947935366?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:49:56Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "Manipulação, porcionamento e estocagem de queijos; Manipulação, porcionamento e estocagem de embutidos e frios; Montagem de pratos durante o serviço"
+ },
+ {
+  "id": "5947932610",
+  "titulo": "ESTÁGIO EM JURÍDICO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947932610?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T08:49:03Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "• Elaborar petição • Consulta processual • Atuar em processo administrativo • Pesquisa jurídica no âmbito tributário e cível • Atendimento ao cliente e demais atividades pertinentes ao setor"
+ },
+ {
+  "id": "5947716669",
+  "titulo": "Estagio ARQUITETURA E URBANISMO Ou DESIGN DE INTERIORES - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947716669?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:59Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Atendimento ao cliente para apresentar projetos e produtos para ambientes infantis . Auxiliar no desenvolvimento e detalhamento de projeto REQUISITOS: cursando: ARQUITETURA E URBANISMO ou DESIGN DE INTERIORES JORNADA: segunda a sexta das 10h as 16h BENEFÍCIOS: Auxilio transporte Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5947716670",
+  "titulo": "Estágio Administrativo (27826) - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947716670?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:59Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Prospectar clientes para negociações de empréstimo consignado e seguro; Auxiliar o cliente quanto a formalização digital; Criar o relacionamento e encantamento com cliente. REQUISITOS: Cursando: Ensino médio (entre o 1º e 2º ano - período noturno) ou Técnico em Administração (Com formação prevista a partir de 12/2025) JORNADA: De segunda à sexta de 10h00 às 17h00 (1h de intervalo) BENEFÍCIOS: Auxilio transporte (R$ 8,60/dia)  VR (R$ 10,00/dia)  Seguro de vida Vaga aberta e verifica…"
+ },
+ {
+  "id": "5947715916",
+  "titulo": "Estágio Em Gastronomia (41493) - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715916?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:52Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Manipulação, porcionamento e estocagem de queijos; Manipulação, porcionamento e estocagem de embutidos e frios; Montagem de pratos durante o serviço REQUISITOS: Cursando: Técnico ou superior em Gastronomia (Com formação prevista a partir de 06/2026) JORNADA: De seg á sex ou ter a sab das 08h00 ás 14h00 ou 16h00 ás 22h00 BENEFÍCIOS: Vale Transporte  Seguro de vida Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5947715819",
+  "titulo": "Estágio Em Relações Internacionais - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715819?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:52Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Irá atuar com uma carteira exclusiva de clientes que possuem um grande número de funcionários internacionais, tendo a oportunidade de trabalhar com questões de imposto de renda para expatriados; Apoiará a equipe na preparação das obrigações fiscais individuais brasileiras, bem como entrará em contato com os expatriados para discutir questões importantes sobre imposto de renda; Prestará uma série de serviços fiscais aos nossos clientes – isso inclui assistência aos funcionários de n…"
+ },
+ {
+  "id": "5947715590",
+  "titulo": "Estágio Em Letras/Inglês - 55328 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715590?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:50Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: ATENDIMENTO AO ALUNO, AUXÍLIO NA ROTINA DE ESTUDO, MOTIVAR O ALUNO, ORGANIZAÇÃO DO ESPAÇO PEDAGÓGICO REQUISITOS: Letras Inglês JORNADA: A definir com a organização/gestão BENEFÍCIOS: Seguro de vida  VT  Bolsa de estudos no método Kumon Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5947715619",
+  "titulo": "Estágio Em Letras - 53441 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715619?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:50Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: APOIAR NA CORREÇÃO DE MATERIAL DIDÁTICO; AUXILIAR NO SUPORTE AOS ALUNOS; APOIAR NA ORGANIZAÇÃO DO AMBIENTE DE TRABALHO; AUXILIAR NO ESCLARECIMENTO DE DÚVIDAS DOS ALUNOS SEGUINDO O MÉTODO KUMON. REQUISITOS: Cursando: Letras JORNADA: A definir com a organização/gestão BENEFÍCIOS: Seguro de vida  VT  Bolsa de estudos para se desenvolver com o Método Kumon. Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5947715540",
+  "titulo": "Estágio Em Pedagogia - 40967 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715540?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:49Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Auxiliar a equipe na atribuição de notas com capricho, nos registros diários, nas checagens orais, estudar a filosofia e o material didático do Kumon, atividades didáticas direciondas pelo profissional responsável REQUISITOS: Cursando: Pedagogia JORNADA: Segunda e quinta das 13h00 às 19h00, terça, quarta e sexta das 12h00 às 18h00 BENEFÍCIOS: Seguro de vida  VT de R$ 10,00/dia Bolsa de estudos para o método Kumon de ensino Vaga aberta e verificada pelo portal Buscar Vagas em parcer…"
+ },
+ {
+  "id": "5947715509",
+  "titulo": "Estágio Em Pedagogia - 55942 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947715509?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:49Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Correção de materiais; Atendimento aos alunos; Preparar material pedagógico REQUISITOS: Cursando: Pedagogia JORNADA: De segunda á sexta das 13h30 às 18h30 BENEFÍCIOS: Seguro de vida  VT  Bolsa de estudos no método Kumon Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5947714715",
+  "titulo": "Estágio Comercial - SDR - Prospecção De Clientes - - Centro - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947714715?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:39Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Atividades: Prospecção de leads; Cadastro de clientes; Confecção e envio de propostas. REQUISITOS: Requisitos: Noções de vendas consultivas; Desejável conhecimento em CRM; Necessário estar em uma graduação. Competências pessoais: Iniciativa; Habilidade de Comunicação; Persuasão; Objetividade. JORNADA: Jornada de Trabalho: Expediente: Segunda a sexta-feira, de 9h às 16h (com 1h de intervalo) BENEFÍCIOS: Salário: R$ 1.000,00 Benefícios: Vale Transporte  Vale Alimentação Vaga aberta e…"
+ },
+ {
+  "id": "5947712578",
+  "titulo": "ESTÁGIO Na área Administrativa/Financeira - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947712578?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:27Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Acompanhar a rotina administrativa/contábil da corretora de seguros; alimentar periodicamente o sistema de controle dos clientes; emissão de relatórios para controle e pagamento das comissões; conferência dos extratos das seguradoras para emissão NF. REQUISITOS: Cursando entre o 3º e 6º período de Administração ou Ciências Contábeis JORNADA: 6h BENEFÍCIOS: Vale refeição, Vale transporte, Seguro AP Estagiário Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site D…"
+ },
+ {
+  "id": "5947712163",
+  "titulo": "Estágio Em Administração - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947712163?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:21Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: • Recepcionar alunos e clientes • Atendimento via WhatsApp e e-mail para sanar dúvidas acadêmicas • Atendimento presencial para prestar suporte acadêmico REQUISITOS: Requisitos indispensáveis: • Estar cursando ensino superior em Administração Diferenciais valorizados: • Conhecimento em informática JORNADA: Segunda à sexta de 10h às 17h BENEFÍCIOS: • Vale transporte • Bônus por resultado • Bolsa de estudos Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divu…"
+ },
+ {
+  "id": "5947712167",
+  "titulo": "Estágio Em Nutrição - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947712167?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:21Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: - Controlar e monitorar a entrada e saída de alunos, colaboradores, visitantes e prestadores; - Recepcionar, identificar e orientar o público; - Zelar pela segurança, organização e acesso às dependências da instituição; - Receber e direcionar correspondências, entregas e prestadores de serviços; - Apoiar na organização das áreas de entrada e externas; - Comunicar ocorrências e auxiliar no cumprimento das normas internas. REQUISITOS: • Estar cursando Nutrição (Nível Superior) JORNAD…"
+ },
+ {
+  "id": "5947712107",
+  "titulo": "Estágio Em Negociação - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947712107?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:20Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Realizar o contato direto com clientes para negociação de dívidas e fechamento de acordos. Atuar constantemente via telefone, e-mail e WhatsApp. Utilizar estratégica de argumentos para recuperação de crédito de forma empática e resolutiva. Executar rotinas administrativas, envolvendo atualização de sistemas internos, preenchimento de planilhas e controle de documentações dos acordos realizados. REQUISITOS: Cursar Administração, Gestão Financeira, Gestão Comercial, Ciências Contábei…"
+ },
+ {
+  "id": "5947711386",
+  "titulo": "Auxiliar De Contabilidade - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947711386?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:14Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: INFORMAÇÕES DA VAGA: Local: BOTAFOGO REQUISITOS: REQUISITOS: Ensino Superior de Completo em Ciências Contábeis Experiências anteriores na função de AUXILIAR CONTÁBIL / ESTÁGIO EM CONTABILIDADE Seriedade, Foco e Organização Conhecimentos do Pacote Office Conhecimentos intermediário em Excel INFORMAR DATA DE ENTRADA E SAÍDA DAS EXPERIÊNCIAS PROFISSIONAIS CURRICULARES (será um diferencial) JORNADA: Horário: 08:00h às 18:00h (SEGUNDA-FEIRA a SEXTA-FEIRA) BENEFÍCIOS: R$ 1.470,00  ASSIST…"
+ },
+ {
+  "id": "5947711429",
+  "titulo": "Estágio Em Administração - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5947711429?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-10-31T03:01:14Z",
+  "coletada_em": "2026-10-31 15:41:03",
+  "descricao": "ATRIBUIÇÕES: Digitalização; Auxiliar nas rotinas administrativa; Atendimento telefônico, conferência de documentos e arquivamento/organização; Auxiliar na elaboração de documentos, relatórios, planilhas e formulários administrativos. REQUISITOS: Cursando a partir do 2° período o curso de Administração, Gestão Comercial / Gestão de Vendas, Gestão Financeira, Processos Gerenciais, Engenharia de Produção Ter organização, pró atividade. JORNADA: De segunda a sexta-feira das 09:00 às 16:00 (com 1h d…"
+ },
+ {
   "id": "5947140407",
   "titulo": "Pessoa Estagiária Comunicação Corporativa",
   "empresa": "Cury Construtora",
