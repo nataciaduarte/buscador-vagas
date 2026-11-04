@@ -1,5 +1,505 @@
 [
  {
+  "id": "5953274022",
+  "titulo": "Estágio Ensino Médio",
+  "empresa": "Fundacao Mudes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953274022?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T14:25:30Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Prestadora de serviços de saúde seleciona estudantes do ensino médio, do 1º e 2º ano, para oportunidade de estágio. Local: Realengo - RJ Horário: 07h às 13h Atividades: Operar equipamentos de telefonia; Receber, realizar e transferir chamadas telefônicas internas e externas; Prestar atendimento ao público, fornecendo informações e direcionando as solicitações aos setores responsáveis; Transmitir informações com clareza e cordialidade; Atualizar cadastros de ramais e telefones úteis; Registrar l…"
+ },
+ {
+  "id": "5953269862",
+  "titulo": "Estagio em Administração",
+  "empresa": "Fundacao Mudes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953269862?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T14:20:03Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Empresa fornecedora de produtos de combate a incêndio seleciona estudantes de administração, 1º ao 3 período, para oportunidade de estágio. Atividades: -Auxiliar no preenchimento e na atualização de planilhas. -Apoiar a organização e conferência de documentos físicos e digitais. -Auxiliar no manuseio, digitalização e arquivamento de documentos impressos. Local: Inhaúma, rj Horário: de segunda à sexta-feira, das 13h às 17:30h Oferece bolsa auxílio de R$800,00  auxílio transporte Necessário: conh…"
+ },
+ {
+  "id": "5953241408",
+  "titulo": "Pessoa Estagiária em Gestão de Filantropia",
+  "empresa": "Sitawi",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953241408?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T14:03:39Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "A área de Gestão de Filantropia é a área programática que executa majoritariamente o impacto da Sitawi. Realiza a gestão financeira dos fundos de filantropia para que o destino do capital seja mais eficiente e assegura que as organizações parceiras foquem seu tempo e esforço na gestão programática de seus projetos socioambientais, enquanto a área desenvolve serviços customizáveis com alto nível de Compliance, segurança e conformidade. Responsabilidades Gerais: O(A) profissional contratado(a) se…"
+ },
+ {
+  "id": "5953219303",
+  "titulo": "Professor(a) Negócios, Direito & Humanas - IBMR - Rio de Janeiro",
+  "empresa": "Ânima Educação",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953219303?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T13:50:24Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Banco de Talentos Docente | Ciclo Acadêmico 27.1 – Ecossistema Ânima \"Professor(a) Negócios, Direito & Humanas - IBMR - Rio de Janeiro Essa posição é para atuar no IBMR, que faz parte do Ecossistema Ânima, o maior e o mais inovador ecossistema de ensino de qualidade do país, com instituições espalhadas por todo o Brasil. Somos uma empresa em constante evolução, que enxerga em cada detalhe novas formas de promover a educação. Por sinal, essa é a essência que nos faz ser diferentes. Confira mais …"
+ },
+ {
+  "id": "5953189877",
+  "titulo": "Estágio em Redes Ópticas - Engenharia de Telecomunicações e Elétrica",
+  "empresa": "Mundivox Communications",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953189877?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T13:37:25Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "A Mundivox é uma empresa de TELECOM, licenciada pela Anatel e no mercado há mais de 20 anos, hoje presente em 7 estados. Estamos com uma oportunidade para Estágio em Engenharia de Redes Ópticas: Horário: Segunda à Sexta-feira - 14h às 20h - 100% presencial; Local: Rua Sete de Setembro, Centro do Rio de Janeiro; 1 ano de contrato (podendo ser renovado para até 2 anos); Plano de carreira meritocrático , recompensamos por desempenho e levamos isso em consideração para progressão de cargo. Atividad…"
+ },
+ {
+  "id": "5953181471",
+  "titulo": "Estágiario Engenharia Civil",
+  "empresa": "Satel Brasil",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953181471?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T13:35:03Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Estamos em busca de um(a) estagiário(a) proativo(a), comprometido(a) e com vontade de aprender para integrar nossa equipe na área Civil. A pessoa selecionada irá auxiliar nas atividades do setor, acompanhar estudos e tarefas relacionadas a projetos de Linhas de Transmissão, contribuindo para o desenvolvimento técnico e para a conformidade dos projetos com normas técnicas, regulatórias e de segurança. LI-Onsite"
+ },
+ {
+  "id": "5953173101",
+  "titulo": "Estágio em Administração, RH ou Psicologia",
+  "empresa": "Fundacao Mudes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5953173101?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T13:32:01Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Empresa no segmento de locação de automóveis, contrata Estagiário do curso de ADMINISTRAÇÃO, GESTÃO DE RECURSOS HUMANOS OU PSICOLOGIA, cursando entre os períodos 2° e 6°. Local: Praça da bandeira/RJ Horário: 8h30 às 14h30 - segunda a sexta Remuneração: R$1.600,00  auxílio transporte Requisitos: Conhecimento intermediário em Inglês e Pacote office Atividades: Apoiar a condução do fluxo completo de Recrutamento e Seleção (triagem de currículos, agendamento de entrevistas e envio de feedbacks aos …"
+ },
+ {
+  "id": "5952930655",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952930655?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:09:38Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "• Atendimento ao cliente por meio de ligações, mensagens e e-mail • Fluxo de contas a pagar e a receber • Emissão de boletos bancários e notas fiscais • Atuação em rotinas de cobrança de inadimplentes • Elaboração e preparação de relatórios financeiros • Organização, controle e manutenção de arquivos do setor"
+ },
+ {
+  "id": "5952929910",
+  "titulo": "ESTÁGIO EM TECNOLOGIA DA INFORMAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952929910?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:09:28Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Principais atividades: • Ajudar na configuração de sistemas de gestão para restaurantes, como ERP, CRM e softwares de controle de estoque e vendas • Auxiliar na identificação de padrões para otimização de processos operacionais e estratégias • Auxiliar na automação de tarefas simples usando fórmulas e tabelas dinâmicas • Monitorar o desempenho de sistemas e equipamentos, identificando gargalos ou falhas para correção"
+ },
+ {
+  "id": "5952929072",
+  "titulo": "ESTÁGIO – DEPARTAMENTO PESSOAL – RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952929072?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:09:18Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições: Suporte ao setor de DP em atividades relacionadas a empresas sem movimento e com pequeno número de funcionários, acompanhamento de situação fiscal das empresas clientes, processamento de folha de pagamento e demais atividades pertinentes ao setor."
+ },
+ {
+  "id": "5952928740",
+  "titulo": "GERENTE DE PROJETOS – RIO DE JANEIRO – BARRA DA TIJUCA – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952928740?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:09:14Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições: Liderar o desenvolvimento e ser responsável pela gestão de projetos das novas lojas, extensões e reajustes da iniciação do site até o Handover para a equipe de operações, assegurando o cumprimento das normas relevantes de saúde e segurança e de acordo com as normas da empresa; Comunicar o andamento dos projetos aos detentores de estaca em toda a empresa e aos parceiros externos de franquia e marca; Manter, desenvolver e aprimorar o relacionamento com a cadeia de suprimentos externa…"
+ },
+ {
+  "id": "5952927981",
+  "titulo": "ESTÁGIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952927981?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:09:01Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atendimento comercial telefônico; Preenchimento de planilhas; Suporte a demandas pertinentes."
+ },
+ {
+  "id": "5952927665",
+  "titulo": "ESTÁGIO DE PEDAGOGIA – TUTORIA DE ENSINO – RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952927665?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:08:57Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atividades: responsável por acompanhamentos e orientação pontuais aos alunos; levantamento de faltas ao programa de aprendizagem; ligação de faltas; acompanhamento de processos pedagógicos tutoria no curso médio."
+ },
+ {
+  "id": "5952925491",
+  "titulo": "ESTAGIÁRIO COMÉRCIO EXTERIOR – A PARTIR DO 5º PERÍODO – RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952925491?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:08:32Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições/Conhecimentos: Atuar na área operacional Conhecimento em BL, RE, Invoice, packing list e tramite de embarque. Competências: Ter conhecimento em idiomas será considerado um diferencial Ter foco Ser uma pessoa organizada Ser determinada Fácil aprendizado Dinâmico e proativo Com vontade de crescer"
+ },
+ {
+  "id": "5952925472",
+  "titulo": "ESTAGIÁRIO WEB DESIGNER – RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952925472?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:08:32Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições: Criação de Sites, Landing Pages e email-mkt. Divulgação de Posts em Redes Sociais: Instagram, Facebook, LinkedIn e Youtube. Edição básica de vídeos: corte e legendas. Edição de imagens."
+ },
+ {
+  "id": "5952924306",
+  "titulo": "ESTAGIO TÉCNICO EM MECÂNICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952924306?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:08:21Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Auxiliar no desenvolvimento de projetos mecânicos, elaboração e atualização de desenhos técnicos, modelagem de componentes, pesquisas técnicas, organização de documentação de engenharia e apoio em estudos e melhorias de equipamentos e soluções tecnológicas voltadas ao setor de óleo e gás."
+ },
+ {
+  "id": "5952924332",
+  "titulo": "ESTAGIO ADMINISTRATIVO – CENTRO RIO DE JANEIRO – RJ",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952924332?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T10:08:21Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições: Profissionais para suporte aos gestores dos setores administrativos."
+ },
+ {
+  "id": "5952636763",
+  "titulo": "Estágio Em Administração - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952636763?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:53Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: • Atendimento ao cliente por meio de ligações, mensagens e e-mail • Fluxo de contas a pagar e a receber • Emissão de boletos bancários e notas fiscais • Atuação em rotinas de cobrança de inadimplentes • Elaboração e preparação de relatórios financeiros • Organização, controle e manutenção de arquivos do setor REQUISITOS: Requisitos indispensáveis: • Cursando Administração ou Gestão Financeira a partir do 5º período Diferenciais valorizados: • Bons conhecimentos do Pacote Office (Wo…"
+ },
+ {
+  "id": "5952635498",
+  "titulo": "Estágio De Pedagogia - Tutoria De Ensino - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952635498?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:41Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atividades: responsável por acompanhamentos e orientação pontuais aos alunos; levantamento de faltas ao programa de aprendizagem; ligação de faltas; acompanhamento de processos pedagógicos tutoria no curso médio. REQUISITOS: Necessário: Estar cursando 4º AO 8º período; Ter experiência em ministrar aulas. JORNADA: Horário:30 horas semanais: sextas e sábados pela manhã. Demais dias a noite (ter disponibilidade nesses dois horários) BENEFÍCIOS: Vaga aberta e verificada pelo portal Bus…"
+ },
+ {
+  "id": "5952635125",
+  "titulo": "Estágio - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952635125?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:36Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atendimento comercial telefônico; Preenchimento de planilhas; Suporte a demandas pertinentes. REQUISITOS: Estar cursando graduação em Administração, Gestão de Recursos Humanos, Gestão comercial ou semelhantes (pode ser a partir do primeiro período); Fácil acesso a Barra da Tijuca. JORNADA: Segunda a sexta-feira das 09h às 16h com 1 hora de almoço BENEFÍCIOS: Ajuda de custo de R$440,00 Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5952634572",
+  "titulo": "Gerente De Projetos - Barra Da Tijuca - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952634572?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:30Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições: Liderar o desenvolvimento e ser responsável pela gestão de projetos das novas lojas, extensões e reajustes da iniciação do site até o Handover para a equipe de operações, assegurando o cumprimento das normas relevantes de saúde e segurança e de acordo com as normas da empresa; Comunicar o andamento dos projetos aos detentores de estaca em toda a empresa e aos parceiros externos de franquia e marca; Manter, desenvolver e aprimorar o relacionamento com a cadeia de suprim…"
+ },
+ {
+  "id": "5952634371",
+  "titulo": "Estágio - Departamento Pessoal - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952634371?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:27Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições: Suporte ao setor de DP em atividades relacionadas a empresas sem movimento e com pequeno número de funcionários, acompanhamento de situação fiscal das empresas clientes, processamento de folha de pagamento e demais atividades pertinentes ao setor. REQUISITOS: Requisitos: Interesse na área de departamento pessoal. Cursando a partir do 2º período em gestão de RH. Bons conhecimentos em legislação e cálculo trabalhista e social. Capacidade de organização e comunicação. JOR…"
+ },
+ {
+  "id": "5952633481",
+  "titulo": "Estágio Em Gestão De Recursos Humanos - 1076 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952633481?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:18Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: * Prestar suporte nas atividades pertinentes ao setor de RH e DP * Preparar os vale refeições e Preparar as folhas de ponto * Recolher diariamente as pastas com as folhas de ponto Imprimir a planilha de almoço * Preparar o bilhete único * Auxiliar nas atividades de recrutamento e seleção * Verificar junto ao Detran a existência de multa dos caminhões REQUISITOS: * Estar cursando superior em Recursos Humanos * Excel Intermediário JORNADA: Segunda a Sexta de 8h às 14h BENEFÍCIOS: Aux…"
+ },
+ {
+  "id": "5952633408",
+  "titulo": "Estágio Em Jurídico - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952633408?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:18Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: • Elaborar petição • Consulta processual • Atuar em processo administrativo • Pesquisa jurídica no âmbito tributário e cível • Atendimento ao cliente e demais atividades pertinentes ao setor REQUISITOS: Requisitos indispensáveis: • Cursando Direito, do 5° ao 8° período em turno noturno • Conhecimento em Pacote Office Diferenciais valorizados: • Interesse em seguir na área cível e tributária JORNADA: Segunda à Sexta de 09h às 16h BENEFÍCIOS: Vale Transporte Vaga aberta e verificada …"
+ },
+ {
+  "id": "5952633425",
+  "titulo": "Estágio Em Farmácia - 147 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952633425?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:18Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: -Organização de medicamentos e controle de prazos de validade; -Apoio na orientação aos clientes, conforme diretrizes da drogaria; -Conferência de receitas controladas; -Auxílio nas rotinas operacionais da farmácia. REQUISITOS: -Estar cursando Ensino Superior em Farmácia. JORNADA: De Segunda à Sexta de 9h às 15h / 15h às 21h BENEFÍCIOS: - Vale Transporte - Gratificação Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5952633351",
+  "titulo": "Estágio Em Tecnologia Da Informação - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952633351?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:17Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Principais atividades: • Ajudar na configuração de sistemas de gestão para restaurantes, como ERP, CRM e softwares de controle de estoque e vendas • Auxiliar na identificação de padrões para otimização de processos operacionais e estratégias • Auxiliar na automação de tarefas simples usando fórmulas e tabelas dinâmicas • Monitorar o desempenho de sistemas e equipamentos, identificando gargalos ou falhas para correção REQUISITOS: Requisitos indispensáveis: • Estar cursando superior …"
+ },
+ {
+  "id": "5952632965",
+  "titulo": "Estágio Em Engenharia Civil - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952632965?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:12Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Vivência em obras. REQUISITOS: Estar cursando engenharia civil a partir do 7° período. JORNADA: Horário a combinar BENEFÍCIOS: A combinar Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5952632558",
+  "titulo": "Estagio Administrativo - Centro - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952632558?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:06Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições: Profissionais para suporte aos gestores dos setores administrativos. REQUISITOS: Requisitos: Cursando Ensino médio ou completo. JORNADA: Jornada de Trabalho: Segunda a sexta . Turno: Manha ou Tarde. BENEFÍCIOS: Benefícios: Vale transporte,vale alimentação,convênio médico e convênio odontológico. Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5952632507",
+  "titulo": "Estagio Na Recepção - Centro - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952632507?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T03:00:05Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições: Profissionais para atuar na recepção REQUISITOS: Requisitos: disponibilidade de horário. cursando o ensino médio ou concluído. JORNADA: Jornada de Trabalho: Segunda a sexta . Turno: manha ou tarde. BENEFÍCIOS: Salário: 893,00 Benefícios: VALE TRANSPORTE E ALIMENTAÇÃO NO LOCAL. Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5952630781",
+  "titulo": "Estagiário Comércio Exterior - A Partir Do 5º Período - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952630781?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T02:59:43Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições/Conhecimentos: Atuar na área operacional Conhecimento em BL, RE, Invoice, packing list e tramite de embarque. Competências: Ter conhecimento em idiomas será considerado um diferencial Ter foco Ser uma pessoa organizada Ser determinada Fácil aprendizado Dinâmico e proativo Com vontade de crescer REQUISITOS: Requisitos: Escolaridade: Nível superior cursando em Comércio Exterior a partir do 5º período. Experiência: Experiência na área será considerado um diferencial. JORNA…"
+ },
+ {
+  "id": "5952630632",
+  "titulo": "Estagiário Web Designer - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952630632?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-04T02:59:41Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "ATRIBUIÇÕES: Atribuições: Criação de Sites, Landing Pages e email-mkt. Divulgação de Posts em Redes Sociais: Instagram, Facebook, LinkedIn e Youtube. Edição básica de vídeos: corte e legendas. Edição de imagens. REQUISITOS: REQUISITOS Cursando Designer Gráfico, Web Designer, Marketing – OBRIGATÓRIO Habilidades com programas de edição de Imagem e vídeo Conhecimento em HTML e email-marketing JORNADA: Horário: a combinar BENEFÍCIOS: Vaga aberta e verificada pelo portal Buscar Vagas em parceria com…"
+ },
+ {
+  "id": "5952245645",
+  "titulo": "Estágio em Administração - Setor: Compras",
+  "empresa": "Alliage +RH",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245645?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:52Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Nível: Estagiário Cursos de: Admininstração de Empresa,Admininstração de Empresas,Administação,Administração Bacharelado Escolaridade: Graduação - Cursando Tipo de contrato: CLT Jornada de trabalho: Horário: 09h as 16h - segunda a sexta Benefícios: Assistência médica, Alimentação na Empresa, Assistência odontológica Responsabilidades e Experiências desejáveis: Alliage RH seleciona para o seu cliente Katrium Industrias Químicas: Estagiário de Administração - Setor: Compras Requisitos: Cursando S…"
+ },
+ {
+  "id": "5952245634",
+  "titulo": "Estágio em Biblioteconomia",
+  "empresa": "CEL Intercultural School",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245634?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:52Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Nossa missão é proporcionar uma educação global de excelência, norteada por valores humanos, contribuindo para formar cidadãos íntegros e capazes de realizar as suas potencialidades. Responsabilidades e atribuições O estagiário irá: - catalogar; - atender os usuários; - zelar pelo funcionamento do local; - manter a biblioteca organizada; - mediar leitura com alunos. Requisitos e qualificações Cursando Ensino Superior em Biblioteconomia. Disponibilidade no turno da tarde. Ser ágil, ter a comunic…"
+ },
+ {
+  "id": "5952245469",
+  "titulo": "Estágio em Administração Financeira",
+  "empresa": "Vincci Estágios e Trainee",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245469?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:49Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Tipo de Vaga: Presencial Horário: 09:00 às 16:00, com uma hora de almoço. Requisitos:Cursar Administração ou Gestão Comercial. Habilidades exigidas e atividades: - Facilidade de relacionamento; - Conhecimento de legislações; - Domínio sobre taxas e tributos; - Domínio financeiro; - Pacote office (Excel). Benefícios: - Bolsa: R$800,00; - Vale-transporte:R$192,00. Tipo de vaga: Estágio / Trainee Duração do contrato: 12 meses Salário: R$800,00 por mês Benefícios: - Vale-transporte Horário de traba…"
+ },
+ {
+  "id": "5952245476",
+  "titulo": "Estágio em Administração",
+  "empresa": "Vincci Estágios e Trainee",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245476?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:49Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Tipo de Vaga: Presencial. Horário: 09:00 às 16:00, com uma hora de almoço. Requisitos:Cursar Administração de Empresas. Atividades: - Auxiliar contas a pagar e a receber; - Processamento e cadastramento financeiro; - Planejar, organizar, controlar e assessorar as organizações nas áreas de recursos humanos, patrimônio, materiais, informações financeiras, tecnológica, entre outras. Habilidades exigidas: - Pacote Office. Benefícios: - Bolsa:R$800,00; - Vale-transporte:R$192,00. Tipo de vaga: Estág…"
+ },
+ {
+  "id": "5952245438",
+  "titulo": "Estágio em Planejamento e Controle de Produção",
+  "empresa": "Baker Hughes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245438?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:48Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Resumo da Função: Atividades de Estágio 6 meses - (Desenvolvimento no Sistema Oracle e Programação de Fábrica) - Suporte ao time de Programação de Fábrica — (Adquirir Senso Crítico) - Elaboração de KPI’s para medir processos internos e externos (Gerenciar as ações necessárias de mitigação dos Projetos) - Elaboração de Ordens de Serviços internos e externos (Sistema Oracle) — Ganho de conhecimento do sistema da Operacional. 1 ano - (Domínio de Programação de Fábrica, Oracle e Desenvolvimento em …"
+ },
+ {
+  "id": "5952245385",
+  "titulo": "Estagiário de Conteúdo",
+  "empresa": "HomeHub",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245385?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:47Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atividades: Criação, edição e organização dos conteúdos do Blog do Grupo Judice Araujo. Necessário ter excelente escrita e conhecimento básico de WordPress. Conhecimento básico de SEO será um diferencial. Formação: Cursando a partir do 4º Período de Publicidade, Jornalismo, Relações Públicas e áreas relacionadas."
+ },
+ {
+  "id": "5952245190",
+  "titulo": "Analista de Recursos Humanos com Foco em",
+  "empresa": "Limppano",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245190?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:43Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "_Conhecendo um pouco mais sobre o grupo Limppano S/A. -  Somos um time que Cuidamos da limpeza do seu lar gerando bem-estar, no qual combinamos determinação e comprometimento para entregarmos produtos de qualidade. Entendemos que para obtermos os melhores resultados, precisamos dos melhores profissionais. Estamos à procura de talentos que sejam criativos, inovadores e ousados na busca por conhecimento, que tragam resultados sustentáveis ao Grupo Limppano. Se você tem prazer em contribuir, gosta…"
+ },
+ {
+  "id": "5952245209",
+  "titulo": "Estágio Middle Office",
+  "empresa": "Statkraft",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952245209?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:43Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Se você está cursando ensino superior em Engenharia Mecânica, Civil, Elétrica, Produção ou Economia. você poderá iniciar uma carreira que contribuirá para minimizar os efeitos climáticos, junto com a Statkraft. Conheça o potencial da energia renovável. Contribua positivamente com o nosso planeta. Porque Statkraft? A Statkraft vem gerando energia limpa há mais de um século. Isso é o que oferecemos: mais de 125 anos de experiência incomparável no fornecimento ao mundo do que ele mais precisa. Por…"
+ },
+ {
+  "id": "5952244917",
+  "titulo": "Estágio em Publicidade e Propaganda - Home Office",
+  "empresa": "EC Consultoria",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244917?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:38Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "EMPRESA DO RAMO DE COMUNICAÇÃO, LOCALIZADA EM COPACABANA, SELECIONA ESTUDANTES DE MARKETING OU PUBLICIDADE PARA OPORTUNIDADE DE ESTÁGIO. Atividades do dia a dia - Atendimento de demandas internas, de parceiros e influencers - Mapeamento de oportunidades, insights criativos e espaços estratégicos para o cliente - Suporte na criação de pautas e roteiros para influencers - Elaboração de projetos/campanhas de mkt de influência e contato com marcas - Garantir entregas internas e externas respeitando…"
+ },
+ {
+  "id": "5952244879",
+  "titulo": "Estágio na Área de Tecnologia no Centro do Rj",
+  "empresa": "EC Consultoria",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244879?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:37Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Empresa do Segmento de Capitalização contrata: Vaga para Estágio Estudantes de Sistemas de Informação/Ciência da Computação/ Engenharia de Software/Engenharia da Computação, Análise e Desenvolvimento de Sistemas/ Redes de Computadores. Atividades do dia a dia - Prestar atendimento aos chamados, registrando e monitorando os níveis de serviços prestados - Preparar e manter ambientes para a infraestrutura de TI - Distribuir e configurar hardware e software - Dar suporte aos usuários nas ferramenta…"
+ },
+ {
+  "id": "5952244904",
+  "titulo": "Estágio Administrativo",
+  "empresa": "PortoBay Rio de Janeiro",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244904?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:37Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Estudante de Administração, Contabilidade, RH - a partir do 3º período - Para trabalhar nas áreas de RH/DP e financeiro, alimentando planilhas, organizando arquivo e auxiliando nas demais tarefas. - Excel Intermediário/Avançado - Disponibilidade para estagiar 6h Tipo de vaga: Estágio / Trainee Duração do contrato: 24 meses Salário: R$1.200,00 por mês Benefícios: - Vale-transporte Horário de trabalho: - De segunda à sexta-feira"
+ },
+ {
+  "id": "5952244801",
+  "titulo": "Estagiário - Desenvolvedor Jr",
+  "empresa": "Grão Inteligência",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244801?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:36Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Como é trabalhar na Grão? Muito além de uma consultoria, somos propulsores no processo de transformação. Nosso maior objetivo é gerar valor e fazer a diferença para nossos clientes, impulsionando-os na jornada de adaptação às mudanças do mercado. Entregamos soluções que visam a transformação estratégica do negócio, por meio de uma equipe multidisciplinar que busca sempre modelos inovadores e a excelência na forma e nos resultados. Descrição: Auxiliar na montagem da estrutura de banco de dados e…"
+ },
+ {
+  "id": "5952244768",
+  "titulo": "Estágio em Gerenciamento de Projetos - Macaé",
+  "empresa": "Baker Hughes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244768?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:35Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Resumo da Função: Atuar no departamento de OTR, juntamente com os Administradores de contrato e Assistentes de contrato, nos projetos de ferramentas e quipamentos, com foco em escopo, prazo, avanço financeiro e fisico dos projetos. Atividades de Estágio 6 meses - Conhecimento dos processos Inicialização, Execução e finalização dos projetos de OTR. - Conhecimento dos Sistemas de MRP(Oracle, etc). - Buscar o atendimento das entregas de projetos nos prazos acordados com os clientes ou regidos em c…"
+ },
+ {
+  "id": "5952244437",
+  "titulo": "Estágio - Departamento Pessoal - Rio de Janeiro",
+  "empresa": "Posta Vagas",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244437?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:30Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Atribuições: Suporte ao setor de DP em atividades relacionadas a empresas sem movimento e com pequeno número de funcionários, acompanhamento de situação fiscal das empresas clientes, processamento de folha de pagamento e demais atividades pertinentes ao setor. Requisitos: Requisitos: Interesse na área de departamento pessoal. Cursando a partir do 2º período em gestão de RH. Bons conhecimentos em legislação e cálculo trabalhista e social. Capacidade de organização e comunicação. Escolaridade: Nã…"
+ },
+ {
+  "id": "5952244311",
+  "titulo": "Estagiário(a) - Financeiro (Tesouraria)",
+  "empresa": "Rede D'Or São Luiz",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244311?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:27Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Detalhes da vaga: Requisitos: - Cursando nível superior em Economia, Contabilidade, Administração ou Engenharia de Produtos (cursando até 6º período); - Excel Avançado (Haverá teste); - Necessário: conhecimento em Matemática Financeira; - Desejável: Certificação CPA 20; - Necessário: disponibilidade para estagiar presencial no horário solicitado. - Declaração atual de matrícula. Atividades: - Apoio nas atividades de Tesouraria relacionados a Gestão de Caixa, Investimentos, Conciliação Bancaria …"
+ },
+ {
+  "id": "5952244204",
+  "titulo": "Estagiário - Área Edição de Vídeos",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244204?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:25Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Requisitos: Não é necessário experiência na área. Estar no 3º ou 4º período da faculdade dos cursos de Comunicação Social, Cinema ou Design. Hhabilidade Organização Atividades: Ajudar na edição de vídeos que vão para os programas de TV, além de editar filmes e outros tipos de vídeos, como documentários e afins. BENEFÍCIOS:  Vale Transporte SALÁRIO: A combinar REGIME DE CONTRATAÇÃO: Estágio"
+ },
+ {
+  "id": "5952244198",
+  "titulo": "Estágio de Nutrição",
+  "empresa": "Fairmont Copacabana",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244198?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:25Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Nível: Estagiário Cursos de: 02 grau completo Escolaridade: Graduação - Cursando Tipo de contrato: Estagiário Jornada de trabalho: Disponibilidade para estagiar no horário da manhã (7H às 12:00) ou horário da tarde (14H às 19:00).Escala 6x1. Benefícios: Vale transporte, Seguro de Vida em Grupo, Refeição no local Responsabilidades e Experiências desejáveis: Verificação de temperatura dos equipamentos; Verificação de temperatura dos alimentos em exposição; Realização de checklist de áreas nos set…"
+ },
+ {
+  "id": "5952244171",
+  "titulo": "Estagio em Adm. Manutenção",
+  "empresa": "R&S - Bristow Brasil",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244171?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:24Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Empresa mais forte com liderança global aprimorada e presença significativa nas principais regiões geográficas e mercados globais Trabalhamos além das fronteiras geográficas para compartilhar as melhores práticas e criar padrões globais de excelência influenciados por nossa visão global. Nosso time é altamente capacitado e está comprometido em fornecer o mais alto nível de segurança internacional e desempenho operacional. A Bristow de hoje está posicionada para liderar o mundo com soluções inov…"
+ },
+ {
+  "id": "5952244191",
+  "titulo": "Estagiário - Área de Logística",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5952244191?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-03T22:50:24Z",
+  "coletada_em": "2026-11-04 17:54:17",
+  "descricao": "Requisitos: Não é necessário experiência na área. Estar cursando graduação em Logística, Engenharias, Economia, Administração a partir do 5° período. Ter domínio de Excel e raciocínio lógico. Atividades: Realizar o acompanhamento e monitoramento de processos pertinentes a rotina. Acompanhamento de entregas. Auxílio ao setor comercial. BENEFÍCIOS:  Vale Transporte  Refeição no Local SALÁRIO: R$ 1.200,00 REGIME DE CONTRATAÇÃO: Estágio"
+ },
+ {
   "id": "5951624968",
   "titulo": "ESTÁGIO ADMINISTRAÇÃO OU CIÊNCIAS CONTÁBEIS – RIO DE JANEIRO – RJ",
   "empresa": null,
