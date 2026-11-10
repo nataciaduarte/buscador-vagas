@@ -1,5 +1,505 @@
 [
  {
+  "id": "5960556171",
+  "titulo": "Analista de Engenharia - Híbrido - Centro/RJ",
+  "empresa": "Ability",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960556171?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T14:14:27Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Necessário Formação Concluída: Ensino Superior completo em Engenharia, preferencialmente nas áreas Civil, Ambiental, Produção, Computação, Elétrica, Eletrônica, Mecânica ou Naval, entre outras reconhecidas pelo MEC. Registro profissional: CREA ativo. Experiência: Mínimo de 06 meses de experiência comprovada na área de atuação, não sendo aceito estágio Principais atividades Apoiar análises técnicas, inspeções, testes e ensaios em sistemas e equipamentos. Elaborar relatórios técnicos, estatística…"
+ },
+ {
+  "id": "5960544660",
+  "titulo": "Estágiario(a) Administrativo",
+  "empresa": "Atex Do Brasil Locacao De Equipamentos",
+  "local": "Cascadura, Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960544660?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T14:07:11Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "A Atex Brasil está em busca de novos talentos para o nosso time! Somos uma empresa multinacional e líder no fornecimento de fôrmas na América Latina. Há mais de 30 anos no mercado, oferecemos soluções sustentáveis, produtivas e rentáveis para a construção civil. Venha construir com a Atex e fazer parte de uma grande equipe! Principais atividades: Realizar rotinas administrativas e prestar suporte às demandas gerais do escritório; Emitir notas fiscais de entrada e saída de caminhões; Realizar o …"
+ },
+ {
+  "id": "5960517714",
+  "titulo": "Estagiário Administrativo Financeiro",
+  "empresa": "Consultoria Acerta",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960517714?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T13:37:25Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Vaga | Estagiário Financeiro Local: Botafogo – Rio de Janeiro/RJ Empresa: Escritório de Contabilidade Bolsa-auxílio: R$ 800,00 Benefícios: Vale-transporte e vale-alimentação de R$ 24,00 por dia. Jornada: 6 horas diárias, com 1 hora de intervalo para almoço. Principais atividades: Apoio às rotinas administrativas e financeiras da empresa; Organização, conferência e arquivamento de documentos financeiros; Auxílio no controle de contas a pagar e a receber; Atualização de planilhas e alimentação de…"
+ },
+ {
+  "id": "5960517404",
+  "titulo": "Estágio em Medicina - Centro/RJ",
+  "empresa": "Fundacao Mudes",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960517404?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T13:37:02Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "CLÍNICA DE SAÚDE OCUPACIONAL SELECIONA ESTUDANTES DE MEDICINA DO 9° AO 12° PERÍODO, PARA ESTÁGIO. ATIVIDADES: - ACOMPANHAR CONSULTAS E EXAMES ADMISSIONAIS, PERIÓDICOS E DEMISSIONAIS; - OBSERVAR CASOS DE AFASTAMENTO, RETORNO AO TRABALHO E READEQUAÇÃO FUNCIONAL; - APOIAR A ORGANIZAÇÃO DE PRONTUÁRIOS E LAUDOS; - PARTICIPAR DE DISCUSSÕES CLÍNICAS COM MÉDICOS EXPERIENTES, COM ESPAÇO PARA DÚVIDAS E TROCA DE CONHECIMENTOS; - VIVENCIAR, NA PRÁTICA, UMA ROTINA REAL E DIVERSIFICADA DE MEDICINA DO TRABALH…"
+ },
+ {
+  "id": "5960307956",
+  "titulo": "ESTÁGIO EM NUTRIÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307956?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:33Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "- Controlar e monitorar a entrada e saída de alunos, colaboradores, visitantes e prestadores; - Recepcionar, identificar e orientar o público; - Zelar pela segurança, organização e acesso às dependências da instituição; - Receber e direcionar correspondências, entregas e prestadores de serviços; - Apoiar na organização das áreas de entrada e externas; - Comunicar ocorrências e auxiliar no cumprimento das normas internas."
+ },
+ {
+  "id": "5960307825",
+  "titulo": "ESTÁGIO EM ATENDIMENTO - 35",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307825?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:31Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "O que você vai aprender e desenvolver: -Atendimento ao público com simpatia e responsabilidade -Organização e manutenção do espaço da loja -Suporte nas rotinas operacionais do dia a dia -Apoio na experiência e satisfação dos clientes"
+ },
+ {
+  "id": "5960307707",
+  "titulo": "ESTÁGIO EM FARMÁCIA - DROGARIA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307707?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:30Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "- Organização e controle de validade - Orientação aos clientes - Conferencia de receitas controladas"
+ },
+ {
+  "id": "5960307702",
+  "titulo": "ESTÁGIO EM TURISMO - AGÊNCIA DE TURISMO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307702?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:30Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Auxiliar no cadastro de clientes em sistema • Receber dados de pagamento e encaminhar ao setor financeiro • Auxiliar nas reservas de hotéis e veículos • Auxiliar na elaboração de roteiros para os clientes • Atendimento ao cliente tirando dúvidas na compra de pacotes de viagens • Verificar documentações necessárias para finalizar o pacote de viagem"
+ },
+ {
+  "id": "5960307705",
+  "titulo": "ESTÁGIO JURÍDICO - ASSESSORIA JURÍDICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307705?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:30Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Elaborar petição • Consulta processual • Atuar em processo administrativo • Pesquisa jurídica no âmbito tributário e cível • Atendimento ao cliente e demais atividades pertinentes ao setor"
+ },
+ {
+  "id": "5960307427",
+  "titulo": "ESTÁGIO EM CONTABILIDADE - 52888",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307427?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:27Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Emissão de notas fiscais; Apoio no atendimento clientes; Controle de prazos e planilhas; Demais rotinas do setor."
+ },
+ {
+  "id": "5960307452",
+  "titulo": "ESTÁGIO EM MATEMÁTICA - 49377",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307452?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:27Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "APOIAR NA CORREÇÃO DE MATERIAL DIDÁTICO; AUXILIAR NO SUPORTE AOS ALUNOS; APOIAR NA ORGANIZAÇÃO DO AMBIENTE DE TRABALHO; AUXILIAR NO ESCLARECIMENTO DE DÚVIDAS DOS ALUNOS SEGUINDO O MÉTODO KUMON"
+ },
+ {
+  "id": "5960307339",
+  "titulo": "ESTÁGIO DE EDUCAÇÃO FÍSICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307339?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:26Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Auxiliará o professor nas atividades em grupo; Montar fichas de treino Supervisionar o salão de aulas coletivas Auxiliará os alunos que possuem dificuldade em realizar as atividades esportivas;"
+ },
+ {
+  "id": "5960307034",
+  "titulo": "ESTÁGIO EM ENSINO MÉDIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307034?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Apoio nas atividades de atendimento ao público • Auxílio nas rotinas de caixa"
+ },
+ {
+  "id": "5960307020",
+  "titulo": "ESTÁGIO EM APOIO OPERACIONAL - NÍVEL MÉDIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307020?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Auxiliar na Reposição de produtos • Codificação de produtos • Organização de loja • Organização de estoque"
+ },
+ {
+  "id": "5960307038",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307038?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Auxílio nas atividades administrativas • Auxílio com atendimento ao público"
+ },
+ {
+  "id": "5960307019",
+  "titulo": "ESTÁGIO EM RECURSOS HUMANOS",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307019?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Prestar suporte nas atividades pertinentes ao setor de RH e DP • Preparar os vale refeições • Preparar as folhas de ponto • Recolher diariamente as pastas com as folhas de ponto • Imprimir a planilha de almoço • Preparar o bilhete único • Auxiliar nas atividades de recrutamento e seleção • Verificar junto ao Detran a existência de multa dos caminhões"
+ },
+ {
+  "id": "5960307049",
+  "titulo": "ESTÁGIO EM ADMINISTRAÇÃO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307049?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Auxílio administrativo para envio de orçamento para clientes • Fechamento de caixa e controle de pagamentos • Auxílio na finalização de vendas • Auxílio administrativo para retorno para clientes • Auxiliar time de vendas"
+ },
+ {
+  "id": "5960307036",
+  "titulo": "ESTÁGIO NO SETOR FISCAL",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960307036?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Apoiar na análise e aplicação da legislação tributária federal, estadual e municipal • Auxiliar no cálculo e apuração de tributos como PIS e COFINS • Contribuir com rotinas relacionadas ao regime do Simples Nacional • Dar suporte na apuração de ICMS, IPI e ISS • Auxiliar nos cálculos de IRPJ e CSLL • Acompanhar atualizações na legislação tributária e apoiar na adequação dos processos internos"
+ },
+ {
+  "id": "5960306980",
+  "titulo": "ESTÁGIO EM FARMÁCIA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960306980?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:23Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "• Organização e controle de validade • Orientação aos clientes • Conferencia de receitas controladas"
+ },
+ {
+  "id": "5960306350",
+  "titulo": "ESTAGIO COMERCIAL",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960306350?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:16Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Atendimento via telefone Atendimento via whatsapp Negociação e fechamento de vendas"
+ },
+ {
+  "id": "5960306011",
+  "titulo": "ESTÁGIO",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960306011?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T10:02:13Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Atividades a serem desenvolvidas: Apoio ao time operacional Interação com clientes, principalmente com por whatsapp por mensagem escrita. Interação com Seguradoras para acompanhamento propostas, sinistros: Incluir propostas do VR Benefícios e VR Gente/Ponto Eletrônico, gerar contratos e cuidar das ativações; Incluir propostas de consórcios, gerar contratos e acompanhar a implantação das propostas."
+ },
+ {
+  "id": "5960240411",
+  "titulo": "Estágio Em Contabilidade",
+  "empresa": "Sec auditoria perícias e consultoria contábeis",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960240411?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T08:06:03Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Área e especialização profissional: Contábil, Finanças, Economia - Contabilidade Senioridade: Estagiário Local de trabalho: Rio de Janeiro, RJ Regime de contratação de tipo Estágio Jornada Período Integral Estamos com uma oportunidade de estágio presencial para estudantes da área contábil em nosso escritório, especializado em Perícia Contábil voltada para processos judiciais e arbitragens. Informações sobre a vaga: Local de trabalho: Escritório presencial (Rio de Janeiro) Horário: Comercial de …"
+ },
+ {
+  "id": "5960240031",
+  "titulo": "Estágio Consultora Comercial - Clínica De Estética",
+  "empresa": "Propósito RH",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960240031?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T08:05:48Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Área e especialização profissional: Administração - Recepção Senioridade: Estagiário Local de trabalho: Rio de Janeiro, RJ Regime de contratação de tipo Estágio Jornada Parcial tardes Estágio em Consultora Comercial Bolsa Auxílio de 1200 e VT Horário : 14h ás 19h de Segunda a sábado Atividades: Atendimento a leads e clientes; Apoio à prospecção e conversão de vendas; Organização da agenda dos profissionais; Divulgação da clínica e dos serviços nas redes sociais; Suporte às rotinas operacionais …"
+ },
+ {
+  "id": "5960001282",
+  "titulo": "Estágio Em Farmácia - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960001282?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:49Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: • Organização e controle de validade • Orientação aos clientes • Conferencia de receitas controladas REQUISITOS: Requisitos indispensáveis: • Estar cursando Ensino Superior em Farmácia Diferenciais valorizados: • Conhecimento do SNGPC JORNADA: Segunda à Sexta de 09h às 15h BENEFÍCIOS: • Vale Transporte • Gratificação Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5960001190",
+  "titulo": "Estágio Em Administração - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960001190?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:47Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: • Auxílio administrativo para envio de orçamento para clientes • Fechamento de caixa e controle de pagamentos • Auxílio na finalização de vendas • Auxílio administrativo para retorno para clientes • Auxiliar time de vendas REQUISITOS: Requisitos indispensáveis: • Estar cursando Ensino Superior em Administração ou Ciências Contábeis no turno da noite ou EAD. Diferenciais valorizados: • Possuir CNH B • Ter Excel Intermediário ou Avançado JORNADA: Segunda à Sexta de 09h às 15h BENEFÍC…"
+ },
+ {
+  "id": "5960001173",
+  "titulo": "Estágio Em Recursos Humanos - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960001173?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:47Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: • Prestar suporte nas atividades pertinentes ao setor de RH e DP • Preparar os vale refeições • Preparar as folhas de ponto • Recolher diariamente as pastas com as folhas de ponto • Imprimir a planilha de almoço • Preparar o bilhete único • Auxiliar nas atividades de recrutamento e seleção • Verificar junto ao Detran a existência de multa dos caminhões REQUISITOS: Requisitos indispensáveis: • Cursando Recursos Humanos ou áreas afins • Excel Intermediário JORNADA: Segunda à sexta de…"
+ },
+ {
+  "id": "5960001085",
+  "titulo": "Estagiário De Engenharia Mecânica - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960001085?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:46Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: Auxiliar nos setores de serviço e comercial da empresa. REQUISITOS: Estar Cursando Engenharia Mecânica JORNADA: 08h00 às 15h00 BENEFÍCIOS: Bolsa Auxilio  Refeição no local Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5960000693",
+  "titulo": "Estágio Em Letras - Inglês - 49403 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000693?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:44Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: APOIAR NA CORREÇÃO DE MATERIAL DIDÁTICO; AUXILIAR NO SUPORTE AOS ALUNOS; APOIAR NA ORGANIZAÇÃO DO AMBIENTE DE TRABALHO; AUXILIAR NO ESCLARECIMENTO DE DÚVIDAS DOS ALUNOS SEGUINDO O MÉTODO KUMON. REQUISITOS: CURSANDO: LETRAS - INGÊS JORNADA: A definir com a organização/gestão BENEFÍCIOS: Vale Transporte  Seguro de Vida  Bolsa de Estudos Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5960000425",
+  "titulo": "Estágio Em Farmácia - Drogaria - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000425?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:42Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: - Organização e controle de validade - Orientação aos clientes - Conferencia de receitas controladas REQUISITOS: - Estar cursando Ensino Superior em Farmácia JORNADA: Segunda à Sexta de 15h às 21h BENEFÍCIOS: - Vale Transporte - Gratificação Vaga aberta e verificada pelo portal Buscar Vagas em parceria com o site Divulga Vagas Brasil."
+ },
+ {
+  "id": "5960000524",
+  "titulo": "Estágio Em Turismo - Agência De Turismo - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000524?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:42Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: • Auxiliar no cadastro de clientes em sistema • Receber dados de pagamento e encaminhar ao setor financeiro • Auxiliar nas reservas de hotéis e veículos • Auxiliar na elaboração de roteiros para os clientes • Atendimento ao cliente tirando dúvidas na compra de pacotes de viagens • Verificar documentações necessárias para finalizar o pacote de viagem REQUISITOS: • Cursando superior em Turismo JORNADA: Horário a combinar BENEFÍCIOS: • Auxílio Transporte Vaga aberta e verificada pelo …"
+ },
+ {
+  "id": "5960000301",
+  "titulo": "Estágio Em Administração - 942 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000301?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:41Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: Auxílio administrativo para envio de orçamento para clientes; Fechamento de caixa e controle de pagamentos; Auxílio na finalização de vendas; Auxílio administrativo para retorno para clientes; Auxiliar time de vendas a realizar os 5 passos de atendimento REQUISITOS: Estar cursando Superior em Administração ou Ciências Contábeis. Excel Intermediário JORNADA: Segunda a Sexta de 09h às 16h - 1h de intervalo BENEFÍCIOS: Vale Transporte Vaga aberta e verificada pelo portal Buscar Vagas …"
+ },
+ {
+  "id": "5960000394",
+  "titulo": "Estágio Administrativo Financeiro - Assessoria Jurídica - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000394?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:41Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: • Atendimento ao cliente por meio de ligações, mensagens e e-mail; • Organização de documentos físicos e digitais; • Emissão de Notas Fiscais; • Atualização de ERP financeiro; • Cobrança ativa de clientes em atraso e inadimplentes; • Atendimento ao cliente. REQUISITOS: • Cursando Administração ou Gestão Financeira com previsão de conclusão a partir de 01/2027; • Conhecimento em Pacote Office e Google Sheets; • Facilidade em comunicação; • Organização e pontualidade. JORNADA: Segund…"
+ },
+ {
+  "id": "5960000305",
+  "titulo": "Estágio Em Atendimento - 35 - Recrutamento Aberto",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5960000305?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T03:50:41Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ATRIBUIÇÕES: O que você vai aprender e desenvolver: -Atendimento ao público com simpatia e responsabilidade -Organização e manutenção do espaço da loja -Suporte nas rotinas operacionais do dia a dia -Apoio na experiência e satisfação dos clientes REQUISITOS: Requisitos obrigatórios: -Estar devidamente matriculado(a) e cursando o Ensino Médio -Ter no mínimo 16 anos -Disponibilidade para trabalhar aos sábados JORNADA: A combinar BENEFÍCIOS: Vale Transporte Vaga aberta e verificada pelo portal Bus…"
+ },
+ {
+  "id": "5959827034",
+  "titulo": "ESTÁGIO – TÉCNICO EM ADMINISTRAÇÃO",
+  "empresa": "Confidencial",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959827034?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T01:05:42Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Suporte ao atendimento a clientes Contato com clientes Abertura de contas Esclarecimento de dúvidas Apoio às rotinas administrativas."
+ },
+ {
+  "id": "5959816308",
+  "titulo": "ESTÁGIO LOGÍSTICA",
+  "empresa": null,
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959816308?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-10T00:59:11Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Principais atividades: Atualização de planilhas e controles internos; Acompanhamento de entregas e ocorrências; Organização de documentos; Elaboração de relatórios e suporte administrativo. Perfil desejado: Estudante de Logística, Administração ou áreas correlatas; Conhecimento básico/intermediário em Office; Organização, atenção aos detalhes e proatividade. Observações finais: Horário de estágio previsto: 11h às 17h. Ter disponibilidade para eventuais ajustes de horário será considerado um dif…"
+ },
+ {
+  "id": "5959646813",
+  "titulo": "Estágio Comercial",
+  "empresa": "Vincci Estágios e Trainee",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646813?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:41Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Atividades realizadas durante o estágio: - Abertura, confecção e acompanhamento de propostas comerciais - Preenchimento de planilhas - Participação nas reuniões comerciais Requisitos: - Estar cursando: Administração, Gestão Comercial, Marketing e outros. - Fácil acesso à Curicica ou ao BRT: - Domínio do Pacote Office - Boa capacidade de relacionamento, comunicação e espírito de servir - Benefícios Valor da Bolsa: R$ 800,00 Transporte/Refeição:R$300,00 Tipo de vaga: Estágio / Trainee Duração do …"
+ },
+ {
+  "id": "5959646691",
+  "titulo": "Gerente de Projetos - Rio de Janeiro - Barra da",
+  "empresa": "BuscarVagas",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646691?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:40Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Atribuições: Liderar o desenvolvimento e ser responsável pela gestão de projetos das novas lojas, extensões e reajustes da iniciação do site até o Handover para a equipe de operações, assegurando o cumprimento das normas relevantes de saúde e segurança e de acordo com as normas da empresa; Comunicar o andamento dos projetos aos detentores de estaca em toda a empresa e aos parceiros externos de franquia e marca; Manter, desenvolver e aprimorar o relacionamento com a cadeia de suprimentos externa…"
+ },
+ {
+  "id": "5959646629",
+  "titulo": "Estagiário de Administração",
+  "empresa": "imuno center",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646629?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:40Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Estagiario de ADM 6 horas por dia de seguanda a sexta. Tipo de vaga: Estágio / Trainee Salário: R$988,00 - R$998,00 por mês Benefícios: - Vale-alimentação - Vale-transporte Horário de trabalho: - De segunda à sexta-feira"
+ },
+ {
+  "id": "5959646749",
+  "titulo": "Estagiario Contabil - Rio de Janeiro",
+  "empresa": "OEmprego",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646749?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:40Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Local de Trabalho: Centro - Rio de Janeiro De Segunda a Sexta-feira - 10h as 17h Atividades: Apoio em toda rotina da área Contábil; Formação: Cursando graduação em áreas pertinentes ao cargo (obrigatório); Excel intermediário (Desejável) Bolsa: R$ 1000,00 Benefícios: Vale transporte; Vale Alimentação ou Refeição R$ 500,00; Seguro de Vida Centro, Rio de Janeiro - RJ Seus horários: Segunda-feira a Sexta-feira Horário: 10h as 17h. Cargo: ESTAGIARIO CONTABIL - RIO DE JANEIRO | Salario: R$ 1.000,00.…"
+ },
+ {
+  "id": "5959646507",
+  "titulo": "Estagiário de Ti",
+  "empresa": "Marriott Worldwide",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646507?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:39Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Job Number 22112956 Job Category Management Development Programs/Interns Location JW Marriott Hotel Rio de Janeiro, Avenida Atlantica, 2600, Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil VIEW ON MAP Schedule Part-Time Located Remotely? N Relocation? N Position Type Non-Management Pré-requisitos: - Cursando Tecnologia/Sistemas ou áreas relacionadas; - Disponibilidade para estagiar de 11h às 17h; - Espírito de servir; - Vontade de aprender; Diferenciais: - Experiência na área de Tecnologia -…"
+ },
+ {
+  "id": "5959646579",
+  "titulo": "Estágio Marketing (CRM)",
+  "empresa": "Bodytech Company",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646579?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:39Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Buscamos um estudante com perfil analítico, organizado, boa escrita e muita vontade de aprender. Atribuições: - Auxílio no desenvolvimento de campanhas na plataforma de CRM Sales Force. - Criação de relatórios mensais sobre as campanhas. - Apoio no atendimento das unidades Bodytech/Fórmula. - Gerenciamento da plataforma de envio de Push Notifications. Requisitos: - Cursando superior em Comunicação Social, Marketing ou Administração. Tipo de vaga: Meio período, Estágio / Trainee Duração do contr…"
+ },
+ {
+  "id": "5959646546",
+  "titulo": "Estágio de Informática",
+  "empresa": "SH Formas, Andaimes e Escoramentos",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646546?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:39Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Dar apoio nas atividades da área de atuação, visando o aprendizado e amadurecimento profissional, sob orientação e supervisão de um responsável. Suporte de TI aos colaboradores nas tecnologias abaixo: - Windows 7 e 10 Professional; - Microsoft Office 2010 e posterior; - Suporte a rede cabeada e Wi-fi; - Instalação e remoção de softwares; - Suporte a reuniões e eventos organizados no local; - Suporte ao parque reprográfico (impressoras e multifuncionais); - Sistemas internos da empresa; - Contro…"
+ },
+ {
+  "id": "5959646492",
+  "titulo": "Estagiário Front-end ReactJS Home Office",
+  "empresa": "Tasken",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646492?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:39Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Empresa especializada em desenvolvimento de software no RJ, contrata para inicio imediato em home office:Estagiário Front-End - ReactJS Atribuições: Auxiliar no desenvolvimento, na manutenção e na criação processos de integração entre sistemas utilizando Metodologias Ágeis. Pré-Requisitos: Cursando Graduação em áreas da Tecnologia da Informação a partir do 3º período e com disponibilidade mínima de 12 meses para estágio. Conhecimentos essenciais: ReactJS e Typescript _Oportunidade de cresciment…"
+ },
+ {
+  "id": "5959646491",
+  "titulo": "Estagiário de Recepção",
+  "empresa": "Marriott Worldwide",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646491?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:39Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Job Number 22121428 Job Category Management Development Programs/Interns Location JW Marriott Hotel Rio de Janeiro, Avenida Atlantica, 2600, Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil VIEW ON MAP Schedule Part-Time Located Remotely? N Relocation? N Position Type Non-Management Pré-requisitos: - Cursando Hotelaria ou Turismo; - Inglês avançado; - Disponibilidade para estagiar no turno da tarde; - Experiência anterior em hotelaria (diferencial). - Marriott International is an equal opport…"
+ },
+ {
+  "id": "5959646238",
+  "titulo": "Estágio de Recursos Humanos",
+  "empresa": "CENTRO EDUCACIONAL E TÉCNICO",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646238?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:38Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Vaga para estágio de recursos humanos, atuando com rotinas de DP e recrutamento e seleção. Requisitos: - Cursando a partir do 2°período de RH - Disponibilidade de horário para parte da manhã ou a tarde - Desejável ter tido alguma experiência na área - Fácil acesso ao Centro Benefícios: - Bolsa de 900,00 - Ajuda de custo - VT - Plano de saúde (após experiência) - Oportunidade de efetivação Tipo de vaga: Meio período, Estágio / Trainee Duração do contrato: 12 meses Horas de meio período: 30 por s…"
+ },
+ {
+  "id": "5959646063",
+  "titulo": "Estágio Técnico em Administração",
+  "empresa": "Vencer RH",
+  "local": "Riachuelo, Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646063?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:37Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "ESTÁGIO TÉCNICO EM ADMINISTRAÇÃO Empresa contrata estudantes de Técnico em Administração para atuar em atendimento a cliente. - Requisitos:Maior de 18 Anos. - Estar cursando de Técnico em Administração. - Cursando no turno da manhã ou ensino a distância; - Conhecimento básico em Informática (Excel e Word); - Atividades: Suporte atendimento telefônico, emissão de relatórios, atualização cadastral e atendimento a clientes por telefone - Bolsa Auxílio: R$ 800,00  Auxílio Transporte - Carga Horária…"
+ },
+ {
+  "id": "5959646114",
+  "titulo": "Estágio em Eletrônica",
+  "empresa": "NOBRESEG",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646114?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:37Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Auxiliar nas instalações e manutenção de equipamentos de CFTV; Auxiliar na infraestrutura de TI (instalação Windows, configuração, ambiente de rede e internet, instalação impressoras, instalação aplicativos, configuração roteadores, etc); Cursando 1° ou 2° período, Técnico em eletrônica; Experiência na área de Segurança Eletrônica será um diferencial; Tipo de vaga: Estágio / Trainee Duração do contrato: 06 meses Salário: R$700,00 por mês Benefícios: - Vale-alimentação - Vale-transporte Horário …"
+ },
+ {
+  "id": "5959646147",
+  "titulo": "Estagiário de Administração",
+  "empresa": "LABORIS",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959646147?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:37Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Requisitos - Cursando Administração a partir do 4º período. - Pacote Office - Intermediário Desejável - Ser comprometido, responsável, proativo e organizado. Atividades - Suporte às áreas administrativa/financeira, Comercial e RH. Local: Rio de Janeiro (Zona Sul) BENEFÍCIOS Vale Refeição e Vale Transporte HORÁRIO 6h diárias. REGIME DE CONTRATAÇÃO Estágio Tipo de vaga: Estágio / Trainee Salário: R$1.000,00 - R$1.200,00 por mês Benefícios: - Vale-refeição - Vale-transporte Horário de trabalho: - …"
+ },
+ {
+  "id": "5959645870",
+  "titulo": "Estágio Curricular Designer",
+  "empresa": "Criativa Digital",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959645870?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:36Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Tenha a oportunidade em estagiar em uma agência de marketing digital. Designer para Marketing Digital - Home Office Experiência Photoshop (Requisito mínimo) Experiência Illustrator (Requisito) Experiência em artes para formatos de redes sociais Criação e edição de vídeos Diferencial : conhecimento de WordPress Interessando(a) em aprendizado e crescimento Criativo(a) | Pro-ativo(a) Comunicativo(a) | Disponibilidade de horário - Manhã Tipo de vaga: Tempo integral, Estágio / Trainee Salário: a par…"
+ },
+ {
+  "id": "5959645861",
+  "titulo": "Estágio em Jornalismo Vaga Afirmativa para",
+  "empresa": "Approach Comunicação",
+  "local": "Rio de Janeiro, Estado do Rio de Janeiro",
+  "link": "https://www.adzuna.com.br/details/5959645861?utm_medium=api&utm_source=640194d5",
+  "data_publicacao": "2026-11-09T22:05:36Z",
+  "coletada_em": "2026-11-10 17:37:27",
+  "descricao": "Já pensou em estagiar em uma das maiores agências de comunicação e sustentabilidade do país? Então chegou a sua vez Estamos com uma excelente oportunidade para atuar no nosso time de Sustentabilidade/ESG. Responsabilidades e atribuições Apoio na produção de textos; Apoio no levantamento e avaliação de publicações e benchmarkings; Apoio em produção de textos sobre eventos; Apoio e participação em reuniões de maneira esporádica; Requisitos e qualificações Estar cursando a partir do 4º semestre de…"
+ },
+ {
   "id": "5959361871",
   "titulo": "ESTAGIÁRIO(A) DE LOGÍSTICA",
   "empresa": "Arena Ipanema Hotel",
